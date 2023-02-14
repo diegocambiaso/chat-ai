@@ -1,7 +1,7 @@
 import openai
 
 openai.api_key = (
-    "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"  # please, change de API KEY
+    "##-aK9dnLrB3k6RhmJBXA1hT3BlbkFJ5BhA0bHE1jiA1wJHeYtk"  # please, change de API KEY
 )
 
 print("\nWelcome to Chat AI")
