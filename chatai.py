@@ -22,6 +22,6 @@ while True:
         print(completion.choices[0].text)  # type: ignore
 
     except:
-        print("Error during inputa data or OpenAI API is not available at this moment")
+        print("Error during input data or OpenAI API is not available at this moment")
         print('Please try again or write "Exit"')
         continue
