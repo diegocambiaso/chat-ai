@@ -1,7 +1,9 @@
+# (*) You need to create a free account to get your API Key.
+
 import openai
 
 openai.api_key = (
-    "##-aK9dnLrB3k6RhmJBXA1hT3BlbkFJ5BhA0bHE1jiA1wJHeYtk"  # please, change the API KEY
+    "##-aK9dnLrB3k6RhmJBXA1hT3BlbkFJ5BhA0bHE1jiA1wJHeYtk"  # please, change the API KEY (*)
 )
 
 print("\nWelcome to Chat AI")
