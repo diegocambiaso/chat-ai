@@ -1,3 +1,13 @@
+#!/usr/bin/env python
+# coding=utf8
+#
+# Copyright (C) 2023, Diego Cambiaso
+# GNU General Public License v3.0
+
+'''
+This script is for educational purposes and will let you run a simple Chat GPT implementation.
+'''
+
 # (*) You need to create a free account to get your API Key.
 
 import openai
