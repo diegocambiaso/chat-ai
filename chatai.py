@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# coding=utf8
+# coding = utf8
 #
 # Copyright (C) 2023, Diego Cambiaso
 # GNU General Public License v3.0
