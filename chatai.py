@@ -11,6 +11,8 @@ This script is for educational purposes and will let you run a simple Chat GPT i
 # (*) You need to create a free account to get your API Key.
 # openai.com
 
+__version__ = 1
+
 import openai
 
 openai.api_key = (
